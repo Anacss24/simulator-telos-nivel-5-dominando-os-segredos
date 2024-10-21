@@ -1,0 +1,7 @@
+C:\Users\Ana Claudia\source\repos\SimuladorKanban\SimuladorKanban\obj\Debug\SimuladorKanban.csproj.AssemblyReference.cache
+C:\Users\Ana Claudia\source\repos\SimuladorKanban\SimuladorKanban\obj\Debug\SimuladorKanban.csproj.CoreCompileInputs.cache
+C:\Users\Ana Claudia\source\repos\SimuladorKanban\SimuladorKanban\bin\Debug\SimuladorKanban.exe.config
+C:\Users\Ana Claudia\source\repos\SimuladorKanban\SimuladorKanban\bin\Debug\SimuladorKanban.exe
+C:\Users\Ana Claudia\source\repos\SimuladorKanban\SimuladorKanban\bin\Debug\SimuladorKanban.pdb
+C:\Users\Ana Claudia\source\repos\SimuladorKanban\SimuladorKanban\obj\Debug\SimuladorKanban.exe
+C:\Users\Ana Claudia\source\repos\SimuladorKanban\SimuladorKanban\obj\Debug\SimuladorKanban.pdb
